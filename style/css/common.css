@@ -1,0 +1,38 @@
+/*index*/
+.blank{
+	clear: both;
+	height:0;
+}
+.blank10{
+	clear: both;
+	height:10px;
+	
+}
+#main{
+	width:380px;
+	margin:100px auto;
+}
+#main li{
+	margin-bottom: 20px;
+}
+
+
+/*manage page*/
+#form-box{
+	width:620px;
+	padding:20px;
+	float:left;
+}
+
+#form-right{
+	width:200px;
+	float: right;
+	padding:50px;
+
+}
+
+/*add-box*/
+#add-box{
+	width:800px;
+	padding: 20px;
+}
